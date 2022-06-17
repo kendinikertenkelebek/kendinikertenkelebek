@@ -9,8 +9,8 @@
 <h2 align="center">Github Profile Stastictics</h2>
 
 <p align="center">
-    <a href="https://github.com/kendinikertenkelebek">
-        <img title="kendinikertenkelebek stats" alt="kendinikertenkelebek's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kendinikertenkelebek&theme=dark&hide_border=true&stroke=f53b3b"/>
+    <a href="https://github.com/yankikucuk">
+        <img title="yankikucuk stats" alt="yankikucuk's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=yankikucuk&theme=dark&hide_border=true&stroke=f53b3b"/>
     </a>
 </p><br>
-<a href="https://github.com/kendinikertenkelebek"><img alt="kendinikertenkelebek's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=kendinikertenkelebek&bg_color=0D1117&color=eca15b&line=eca15b&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/yankikucuk"><img alt="yankikucuk's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=yankikucuk&bg_color=0D1117&color=eca15b&line=eca15b&point=FFFFFF&hide_border=true" /></a>
