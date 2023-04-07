@@ -7,6 +7,7 @@
   <img alt="Vite" src="https://img.shields.io/badge/-Vite-090909?style=for-the-badge&logo=Vite"></a> 
   <br />
   <img alt="Mongo" src="https://img.shields.io/badge/-MongoDB-090909?style=for-the-badge&logo=MongoDB"></a> 
+  <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-090909?style=for-the-badge&logo=Firebase"></a> 
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-postgresql-090909?style=for-the-badge&logo=postgresql"></a> 
   <img alt="sqlite" src="https://img.shields.io/badge/-sqlite-090909?style=for-the-badge&logo=sqlite"></a> 
   <br />
