@@ -10,6 +10,6 @@
 
 <p align="center">
     <a href="https://github.com/yankikucuk">
-        <img title="yankikucuk stats" alt="yankikucuk's streak" src="https://github-readme-streak-stats.herokuapp.com?user=&theme=dark&hide_border=true&mode=weekly&background=1D1D1E&sideLabels=EB2B0C"/>
+        <img title="yankikucuk stats" alt="yankikucuk's streak" src="https://github-readme-streak-stats.herokuapp.com?user=yankikucuk&theme=dark&hide_border=true&mode=weekly&background=1D1D1E&sideLabels=EB2B0C"/>
     </a>
 </p><br>
