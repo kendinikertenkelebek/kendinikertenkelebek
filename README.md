@@ -27,3 +27,5 @@
         <img title="yankikucuk stats" alt="yankikucuk's streak" src="https://github-readme-streak-stats.herokuapp.com?user=yankikucuk&theme=dark&hide_border=true&mode=weekly&background=1D1D1E&sideLabels=EB2B0C"/>
     </a>
 </p><br>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yankikucuk&show_icons=true&bg_color=1d1d1e&border_color=1d1d1e&icon_color=fca103&title_color=fca103&text_color=fcfcfc&cache_seconds=86400" alt="abhisheknaiidu" />
